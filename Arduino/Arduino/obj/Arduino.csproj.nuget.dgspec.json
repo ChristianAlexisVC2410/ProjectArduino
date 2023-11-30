@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Christian Alexis\\source\\repos\\Arduino\\Arduino\\Arduino.csproj": {}
+    "C:\\Users\\Christian Alexis\\Desktop\\ProjectArduino\\Arduino\\Arduino\\Arduino.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Christian Alexis\\source\\repos\\Arduino\\Arduino\\Arduino.csproj": {
+    "C:\\Users\\Christian Alexis\\Desktop\\ProjectArduino\\Arduino\\Arduino\\Arduino.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Christian Alexis\\source\\repos\\Arduino\\Arduino\\Arduino.csproj",
+        "projectUniqueName": "C:\\Users\\Christian Alexis\\Desktop\\ProjectArduino\\Arduino\\Arduino\\Arduino.csproj",
         "projectName": "Arduino",
-        "projectPath": "C:\\Users\\Christian Alexis\\source\\repos\\Arduino\\Arduino\\Arduino.csproj",
+        "projectPath": "C:\\Users\\Christian Alexis\\Desktop\\ProjectArduino\\Arduino\\Arduino\\Arduino.csproj",
         "packagesPath": "C:\\Users\\Christian Alexis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Christian Alexis\\source\\repos\\Arduino\\Arduino\\obj\\",
+        "outputPath": "C:\\Users\\Christian Alexis\\Desktop\\ProjectArduino\\Arduino\\Arduino\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Christian Alexis\\AppData\\Roaming\\NuGet\\NuGet.Config",

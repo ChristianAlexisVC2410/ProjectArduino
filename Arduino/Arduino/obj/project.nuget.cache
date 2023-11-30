@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lkGhxCaPI4ePv9BpG4loJr4S73Qxpg0tchpyeqfhXVd9Xju3whcYPQvacEZ/GtoA0iC/1038zF7CNXgSy4I97A==",
+  "dgSpecHash": "QsZBCcHFygUG1oyGkL6/k2NBlEynPd2fToE9rucetTP9s29aoXNvqPqzXYOtg6wnoFpVEVYGB86k+YfVM3uEKA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Christian Alexis\\source\\repos\\Arduino\\Arduino\\Arduino.csproj",
+  "projectFilePath": "C:\\Users\\Christian Alexis\\Desktop\\ProjectArduino\\Arduino\\Arduino\\Arduino.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Christian Alexis\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\8.0.0\\runtime.linux-arm.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
     "C:\\Users\\Christian Alexis\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\8.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",

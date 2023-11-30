@@ -14,6 +14,7 @@ namespace Arduino.Entidades
         public string strTem { get; set; }
         public string strHum { get; set; }
         public string strTemTeclado { get; set; }
+        public string strLuz { get; set; }
 
         public void obtenerValores()
         {
