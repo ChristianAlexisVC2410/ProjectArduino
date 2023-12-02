@@ -20,7 +20,7 @@ namespace Arduino
             puertoArduino.DataBits = 8;
 
             loop = new System.Windows.Forms.Timer();
-            loop.Interval = 500;
+            loop.Interval = 2000;
             loop.Tick += Loop_Tick;
             loop.Start();
 
